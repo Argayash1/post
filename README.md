@@ -20,6 +20,6 @@
 В проекте исопльзуется язык HTML версии 5.3 в сочетании со стилевыми CSS-файлами.
 
 ## Ссылка на деплой проекта
-* [Ссылка на проект в github-pages](https://argayash1.github.io/how-to-learn/)
+* [Ссылка на проект в github-pages](https://argayash1.github.io/post/)
 
 ## Желаю увлекательного изучения!
